@@ -11,6 +11,4 @@ C:\NETCORE\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.Assembl
 C:\NETCORE\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
 C:\NETCORE\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
 C:\NETCORE\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
-C:\NETCORE\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
-C:\NETCORE\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\appsettings.json
-C:\NETCORE\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\NETCORE\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csproj.CoreCompileInputs.cache
